@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sistem Za Odlucivanje O Nabavci Masine", "Sistem Za Odlucivanje O Nabavci Masine.pyproj", "{FA83D077-6E73-46C6-AD23-05C20EAF7B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA83D077-6E73-46C6-AD23-05C20EAF7B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA83D077-6E73-46C6-AD23-05C20EAF7B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315AF46A-8CD6-4EED-830A-67BC610097F9}
+	EndGlobalSection
+EndGlobal
