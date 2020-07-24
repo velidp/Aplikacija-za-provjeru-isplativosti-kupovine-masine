@@ -7,7 +7,7 @@ Aplikacija služi za provjeru da li je mašina isplativa za kupovinu.
 Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom.
 Podaci koji se unose su podijeljeni u četri kategorije:
 
-Kategorija **_Evidnecija učinka_**:
+U kategoriji **_Evidnecija učinka_** korisnik unosi sljedeće parametre:
   
   _-Broj ispravnih komada_
   
@@ -15,7 +15,7 @@ Kategorija **_Evidnecija učinka_**:
   
   _-Cijena jednog komdaa_
 
-Kategorija **_Troškovi mašine_**:
+U kategorija **_Troškovi mašine_** unose se sljedeći parametri:
 
   _-Nabavna vrijednost mašine_
   
@@ -27,7 +27,7 @@ Kategorija **_Troškovi mašine_**:
   
   _-Mjesečni troškovi alta, pribora i opreme_
   
-Kategorija **_Troškovi radnika**:
+U kategoriji **_Troškovi radnika_** potrebno je unijeti sljedeće parametre:
 
   _-Broj radnih sati mjesečno_
   
@@ -35,7 +35,7 @@ Kategorija **_Troškovi radnika**:
   
   _-Bonusi_
   
-Kategorija **_Prihodi_**:
+U kategoriji **_Prihodi_** se unose sljedeća dva parametra:
   
   _-Subvencije i poticaji_
   
