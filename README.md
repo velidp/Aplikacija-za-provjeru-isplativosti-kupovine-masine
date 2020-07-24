@@ -8,17 +8,12 @@ U kategoriji **_Evidnecija učinka_** korisnik unosi sljedeće parametre:
   _-Broj neispravnih komada_  
   _-Cijena jednog komdaa_  
 
-U kategorija **_Troškovi mašine_** unose se sljedeći parametri:
-
-  _-Nabavna vrijednost mašine_
-  
-  _-Broj mjeseci otplate_
-  
-  _-Amortizovana vrijednost_
-  
-  _-Mjesečni troškovi održavanja i servisiranja mašine_
-  
-  _-Mjesečni troškovi alta, pribora i opreme_
+U kategorija **_Troškovi mašine_** unose se sljedeći parametri:  
+  _-Nabavna vrijednost mašine_  
+  _-Broj mjeseci otplate_  
+  _-Amortizovana vrijednost_  
+  _-Mjesečni troškovi održavanja i servisiranja mašine_  
+  _-Mjesečni troškovi alta, pribora i opreme_  
   
 U kategoriji **_Troškovi radnika_** potrebno je unijeti sljedeće parametre:
 
