@@ -5,11 +5,9 @@ Aplikacija je implementriana korištenjem programsko jezika **Python** i modula 
 Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom. Podaci koji se unose su podijeljeni u četiri kategorije.  
 U kategoriji **_Evidnecija učinka_** korisnik unosi sljedeće parametre:
   
-  _-Broj ispravnih komada_
-  
-  _-Broj neispravnih komada_
-  
-  _-Cijena jednog komdaa_
+  _-Broj ispravnih komada_  
+  _-Broj neispravnih komada_  
+  _-Cijena jednog komdaa_  
 
 U kategorija **_Troškovi mašine_** unose se sljedeći parametri:
 
