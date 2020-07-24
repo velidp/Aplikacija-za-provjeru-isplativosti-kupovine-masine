@@ -15,7 +15,7 @@ Kategorija **Evidnecija učinka**:
   
   -Cijena jednog komdaa
 
-Kategorija **troškovi mašine**:
+Kategorija **Troškovi mašine**:
 
   -Nabavna vrijednost mašine
   
@@ -48,6 +48,7 @@ Početni izgled grafičkog korisničkog interfejsa:
 </p>
 Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru Rezultat se prikazuju izračunate vrijednosti.
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
+
 
   -Profit iz proizvodnje
   
