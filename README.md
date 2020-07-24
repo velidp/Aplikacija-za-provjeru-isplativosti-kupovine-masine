@@ -1,13 +1,13 @@
 # Aplikacija za provjeru isplativosti kupovine mašine
 
-Aplikacija je implementriana korištenjem programsko jezika **Python** i modula **Tkinter**. Jednostvan je za korištenje i posjeduje intuitivan grafički korisnički interfejs. Aplikacija služi za provjeru isplativosti kupovine nove mašine. 
+Aplikacija je implementirana korištenjem programsko jezika **Python** i modula **Tkinter**. Jednostavna je za korištenje i posjeduje intuitivan grafički korisnički interfejs. Aplikacija služi za provjeru isplativosti kupovine nove mašine. 
 
-Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom. Podaci koji se unose su podijeljeni u četiri kategorije.  
+Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi s tom mašinom. Podaci koji se unose su podijeljeni u četiri kategorije.  
 
-U kategoriji **_Evidnecija učinka_** korisnik unosi sljedeće parametre:  
+U kategoriji **_Evidencija učinka_** korisnik unosi sljedeće parametre:  
   _-Broj ispravnih komada_  
   _-Broj neispravnih komada_  
-  _-Cijena jednog komdaa_  
+  _-Cijena jednog komada_  
 
 U kategorija **_Troškovi mašine_** unose se sljedeći parametri:  
   _-Nabavna vrijednost mašine_  
