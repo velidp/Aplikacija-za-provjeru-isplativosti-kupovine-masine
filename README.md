@@ -9,37 +9,37 @@ Podaci koji se unose su podijeljeni u četri kategorije:
 
 Kategorija **_Evidnecija učinka_**:
   
-  _-Broj ispravnih komada
+  _-Broj ispravnih komada_
   
-  _-Broj neispravnih komada
+  _-Broj neispravnih komada_
   
-  _-Cijena jednog komdaa
+  _-Cijena jednog komdaa_
 
-Kategorija **_Troškovi mašine**:
+Kategorija **_Troškovi mašine_**:
 
-  _-Nabavna vrijednost mašine
+  _-Nabavna vrijednost mašine_
   
-  _-Broj mjeseci otplate
+  _-Broj mjeseci otplate_
   
-  _-Amortizovana vrijednost
+  _-Amortizovana vrijednost_
   
-  _-Mjesečni troškovi održavanja i servisiranja mašine
+  _-Mjesečni troškovi održavanja i servisiranja mašine_
   
-  _-Mjesečni troškovi alta, pribora i opreme
+  _-Mjesečni troškovi alta, pribora i opreme_
   
 Kategorija **_Troškovi radnika**:
 
-  _-Broj radnih sati mjesečno
+  _-Broj radnih sati mjesečno_
   
-  _-Cijena po satu
+  _-Cijena po satu_
   
-  _-Bonusi
+  _-Bonusi_
   
 Kategorija **_Prihodi**:
   
-  _-Subvencije i poticaji
+  _-Subvencije i poticaji_
   
-  _-Nusprodukti
+  _-Nusprodukti_
   
 
 Početni izgled grafičkog korisničkog interfejsa:
@@ -50,21 +50,21 @@ Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru 
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
 
 
-  _-Profit iz proizvodnje
+  _-Profit iz proizvodnje_
   
-  _-Gubici iz proizvodnje
+  _-Gubici iz proizvodnje_
   
-  _-Ukupan broj komada
+  _-Ukupan broj komada_
   
-  _-Troškovi radnika
+  _-Troškovi radnika_
   
-  _-Troškovi mašine
+  _-Troškovi mašine_
   
-  _-Ukupni trošak
+  _-Ukupni trošak_
   
-  _-Ukupni prihodi
+  _-Ukupni prihodi_
   
-  _-Profit
+  _-Profit_
 
 Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak _"Mašina jeste isplativa"_ ili _"Mašina nije isplativa"_.
 
