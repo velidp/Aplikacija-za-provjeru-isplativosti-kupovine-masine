@@ -35,7 +35,7 @@ Kategorija **_Troškovi radnika**:
   
   _-Bonusi_
   
-Kategorija **_Prihodi**:
+Kategorija **_Prihodi_**:
   
   _-Subvencije i poticaji_
   
