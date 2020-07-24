@@ -12,15 +12,15 @@ Kategorija **Evidnecija učinka**:
   Broj neispravnih komada
   Cijena jednog komdaa
 Kategorija **troškovi mašine**:
-  Nabavna vrijednost mašine
-  Broj mjeseci otplate
-  Amortizovana vrijednost
-  Mjesečni troškovi održavanja i servisiranja mašine
-  Mjesečni troškovi alta, pribora i opreme
+  -Nabavna vrijednost mašine
+  -Broj mjeseci otplate
+  -Amortizovana vrijednost
+  -Mjesečni troškovi održavanja i servisiranja mašine
+  -Mjesečni troškovi alta, pribora i opreme
 Kategorija **Troškovi radnika**:
-  Broj radnih sati mjesečno
-  Cijena po satu
-  Bonusi
+  -Broj radnih sati mjesečno
+  -Cijena po satu
+  -Bonusi
 Kategorija **Prihodi**:
   
   -Subvencije i poticaji
@@ -34,14 +34,14 @@ Početni izgled grafičkog korisničkog interfejsa:
 </p>
 Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru Rezultat se prikazuju izračunate vrijednosti.
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
-  Profit iz proizvodnje
-  Gubici iz proizvodnje
-  Ukupan broj komada
-  Troškovi radnika
-  Troškovi mašine
-  Ukupni trošak
-  Ukupni prihodi
-  Profit
+  -Profit iz proizvodnje
+  -Gubici iz proizvodnje
+  -Ukupan broj komada
+  -Troškovi radnika
+  -Troškovi mašine
+  -Ukupni trošak
+  -Ukupni prihodi
+  -Profit
 
 Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak "Mašina jeste isplativa" ili "Mašina nije isplativa".
 
