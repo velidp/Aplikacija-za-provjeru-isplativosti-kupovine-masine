@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sistem Za Odlucivanje O Nabavci Masine", "Sistem Za Odlucivanje O Nabavci Masine.pyproj", "{FA83D077-6E73-46C6-AD23-05C20EAF7B31}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "System for deciding on the cost-effectiveness of purchasing a new machine", "System for deciding on the cost-effectiveness of purchasing a new machine.pyproj", "{FA83D077-6E73-46C6-AD23-05C20EAF7B31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

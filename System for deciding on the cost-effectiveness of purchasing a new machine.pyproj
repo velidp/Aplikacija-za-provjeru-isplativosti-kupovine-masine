@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fa83d077-6e73-46c6-ad23-05c20eaf7b31</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>System for deciding on the cost-effectiveness of purchasing a new machine.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Sistem Za Odlucivanje O Nabavci Masine</Name>
+    <Name>System for deciding on the cost-effectiveness of purchasing a new machine</Name>
     <RootNamespace>Sistem Za Odlucivanje O Nabavci Masine</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
