@@ -24,6 +24,7 @@ Kategorija **Troškovi radnika**:
 Kategorija **Prihodi**:
   
   -Subvencije i poticaji
+  
   -Nusprodukti
   
 
