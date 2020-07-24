@@ -34,7 +34,7 @@ Početni izgled grafičkog korisničkog interfejsa je prikazan na sljedećoj sli
 
 
 Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru **_Rezultat_** se prikazuju izračunate vrijednosti.
-Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:   
+Vrijednosti koje aplikacija računa na osnovu unesenih parametara su:   
   _-Profit iz proizvodnje_  
   _-Gubici iz proizvodnje_  
   _-Ukupan broj komada_  
