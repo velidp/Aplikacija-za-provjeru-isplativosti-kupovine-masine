@@ -26,7 +26,7 @@ Kategorija Prihodi:
   Nusprodukti
 
 Početni izgled grafičkog korisničkog interfejsa:
-
+![početni izgled](https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI%201.png)
 Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru Rezultat se prikazuju izračunate vrijednosti.
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
   Profit iz proizvodnje
