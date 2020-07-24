@@ -7,39 +7,39 @@ Aplikacija služi za provjeru da li je mašina isplativa za kupovinu.
 Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom.
 Podaci koji se unose su podijeljeni u četri kategorije:
 
-Kategorija **Evidnecija učinka**:
+Kategorija **_Evidnecija učinka_**:
   
-  -Broj ispravnih komada
+  _-Broj ispravnih komada
   
-  -Broj neispravnih komada
+  _-Broj neispravnih komada
   
-  -Cijena jednog komdaa
+  _-Cijena jednog komdaa
 
-Kategorija **Troškovi mašine**:
+Kategorija **_Troškovi mašine**:
 
-  -Nabavna vrijednost mašine
+  _-Nabavna vrijednost mašine
   
-  -Broj mjeseci otplate
+  _-Broj mjeseci otplate
   
-  -Amortizovana vrijednost
+  _-Amortizovana vrijednost
   
-  -Mjesečni troškovi održavanja i servisiranja mašine
+  _-Mjesečni troškovi održavanja i servisiranja mašine
   
-  -Mjesečni troškovi alta, pribora i opreme
+  _-Mjesečni troškovi alta, pribora i opreme
   
-Kategorija **Troškovi radnika**:
+Kategorija **_Troškovi radnika**:
 
-  -Broj radnih sati mjesečno
+  _-Broj radnih sati mjesečno
   
-  -Cijena po satu
+  _-Cijena po satu
   
-  -Bonusi
+  _-Bonusi
   
-Kategorija **Prihodi**:
+Kategorija **_Prihodi**:
   
-  -Subvencije i poticaji
+  _-Subvencije i poticaji
   
-  -Nusprodukti
+  _-Nusprodukti
   
 
 Početni izgled grafičkog korisničkog interfejsa:
@@ -50,32 +50,32 @@ Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru 
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
 
 
-  -Profit iz proizvodnje
+  _-Profit iz proizvodnje
   
-  -Gubici iz proizvodnje
+  _-Gubici iz proizvodnje
   
-  -Ukupan broj komada
+  _-Ukupan broj komada
   
-  -Troškovi radnika
+  _-Troškovi radnika
   
-  -Troškovi mašine
+  _-Troškovi mašine
   
-  -Ukupni trošak
+  _-Ukupni trošak
   
-  -Ukupni prihodi
+  _-Ukupni prihodi
   
-  -Profit
+  _-Profit
 
-Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak "Mašina jeste isplativa" ili "Mašina nije isplativa".
+Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak _"Mašina jeste isplativa"_ ili _"Mašina nije isplativa"_.
 
-Ukoliko je ispunjen uslov if ((profit * period otplate) <= (nabavna vrijednost mašine)) aplikacija prikazuje zaključak "Mašina nije isplativa".
+Ukoliko je ispunjen uslov _if ((profit * period otplate) <= (nabavna vrijednost mašine))_ aplikacija prikazuje zaključak _"Mašina nije isplativa"_.
 Primjer podatak za koje ovaj uslov ispunjen i konačni izgled grafičkog korisničkog interfejsa za ovakve podatke je prikazan na sljedećoj slici:
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI2.png" width="800">
 </p>
 
 
-U suprotom, ako prethodni uslov nije ispunjen, tj. ukoliko je ispunjen uslov if ((profit * period otplate) > (nabavna vrijednost mašine)) aplikacija ispisuje zaključak "Mašina jeste isplativa".
+U suprotom, ako prethodni uslov nije ispunjen, tj. ukoliko je ispunjen uslov _if ((profit * period otplate) > (nabavna vrijednost mašine))_ aplikacija ispisuje zaključak _"Mašina jeste isplativa"_.
 Izgled grafičkog korisničkog interfejsa za ovaj slučaj je prikazan na sljedećoj slici:
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI3.png" width="800">
