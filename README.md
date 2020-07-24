@@ -4,7 +4,7 @@ Aplikacija je implementriana korištenjem programsko jezika Python i modula Tkin
 Jednostvan je za korištenje i posjeduje intuitivan grafički korisnički interfejs.
 
 Aplikacija služi za provjeru da li je mašina isplativa za kupovinu. 
-Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašineom.
+Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom.
 Podaci koji se unose su podijeljeni u četri kategorije:
 
 Kategorija Evidnecija učinka:
@@ -41,6 +41,16 @@ Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
   Profit
 
 Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak "Mašina jeste isplativa" ili "Mašina nije isplativa".
-Pseudokod kojim je opisana odluko o tome koji zaklučak će biti prikazan.
-if ((profit * period otplate) <= (nabavna vrijednost mašine)) Mašina nije isplativa
-if ((profit * period otplate) > (nabavna vrijednost mašine)) Mašina jeste isplativa
+
+Ukoliko je ispunjen uslov if ((profit * period otplate) <= (nabavna vrijednost mašine)) aplikacija prikazuje zaključak "Mašina nije isplativa".
+Primjer podatak za koje ovaj uslov ispunjen i konačni izgled grafičkog korisničkog interfejsa za ovakve podatke je prikazan na sljedećoj slici:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI2.png" width="800">
+</p>
+
+
+U suprotom, ako prethodni uslov nije ispunjen, tj. ukoliko je ispunjen uslov if ((profit * period otplate) > (nabavna vrijednost mašine)) aplikacija ispisuje zaključak "Mašina jeste isplativa".
+Izgled grafičkog korisničkog interfejsa za ovaj slučaj je prikazan na sljedećoj slici:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI3.png" width="800">
+</p>
