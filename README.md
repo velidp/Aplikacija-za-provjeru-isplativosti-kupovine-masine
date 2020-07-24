@@ -23,8 +23,8 @@ Kategorija **Troškovi radnika**:
   Bonusi
 Kategorija **Prihodi**:
   
-  -Subvencije i poticaji
-  -Nusprodukti
+  *Subvencije i poticaji
+  *Nusprodukti
   
 
 Početni izgled grafičkog korisničkog interfejsa:
