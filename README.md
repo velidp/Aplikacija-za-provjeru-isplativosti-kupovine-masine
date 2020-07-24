@@ -1,29 +1,31 @@
 # Aplikacija za provjeru isplativosti kupovine mašine
 
-Aplikacija je implementriana korištenjem programsko jezika Python i modula Tkinter. 
+Aplikacija je implementriana korištenjem programsko jezika **Python** i modula **Tkinter**. 
 Jednostvan je za korištenje i posjeduje intuitivan grafički korisnički interfejs.
 
 Aplikacija služi za provjeru da li je mašina isplativa za kupovinu. 
 Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom.
 Podaci koji se unose su podijeljeni u četri kategorije:
 
-Kategorija Evidnecija učinka:
+Kategorija **Evidnecija učinka**:
   Broj ispravnih komada
   Broj neispravnih komada
   Cijena jednog komdaa
-Kategorija troškovi mašine:
+Kategorija **troškovi mašine**:
   Nabavna vrijednost mašine
   Broj mjeseci otplate
   Amortizovana vrijednost
   Mjesečni troškovi održavanja i servisiranja mašine
   Mjesečni troškovi alta, pribora i opreme
-Kategorija Troškovi radnika:
+Kategorija **Troškovi radnika**:
   Broj radnih sati mjesečno
   Cijena po satu
   Bonusi
-Kategorija Prihodi:
+Kategorija **Prihodi**:
+  ```
   Subvencije i poticaji
   Nusprodukti
+  ```
 
 Početni izgled grafičkog korisničkog interfejsa:
 <p align="left">
