@@ -22,10 +22,10 @@ Kategorija **Troškovi radnika**:
   Cijena po satu
   Bonusi
 Kategorija **Prihodi**:
-  ```
-  Subvencije i poticaji
-  Nusprodukti
-  ```
+  
+  -Subvencije i poticaji
+  -Nusprodukti
+  
 
 Početni izgled grafičkog korisničkog interfejsa:
 <p align="left">
