@@ -1,1 +1,1 @@
-# Aplikacija-za-provjeru-isplativosti-kupovine-masine
+# Aplikacija za provjeru isplativosti kupovine mašine
