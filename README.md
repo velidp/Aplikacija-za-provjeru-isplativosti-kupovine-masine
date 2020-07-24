@@ -16,19 +16,14 @@ U kategorija **_Troškovi mašine_** unose se sljedeći parametri:
   _-Mjesečni troškovi održavanja i servisiranja mašine_  
   _-Mjesečni troškovi alta, pribora i opreme_  
   
-U kategoriji **_Troškovi radnika_** potrebno je unijeti sljedeće parametre:
-
-  _-Broj radnih sati mjesečno_
+U kategoriji **_Troškovi radnika_** potrebno je unijeti sljedeće parametre:  
+  _-Broj radnih sati mjesečno_  
+  _-Cijena po satu_  
+  _-Bonusi_  
   
-  _-Cijena po satu_
-  
-  _-Bonusi_
-  
-U kategoriji **_Prihodi_** se unose sljedeća dva parametra:
-  
-  _-Subvencije i poticaji_
-  
-  _-Nusprodukti_
+U kategoriji **_Prihodi_** se unose sljedeća dva parametra:  
+  _-Subvencije i poticaji_  
+  _-Nusprodukti_  
   
 
 Početni izgled grafičkog korisničkog interfejsa:
