@@ -53,7 +53,7 @@ Primjer podatak za koje ovaj uslov ispunjen i konačni izgled grafičkog korisni
 </p>
 
 
-U suprotom, ako prethodni uslov nije ispunjen, tj. ukoliko je ispunjen uslov _if ((profit * period otplate) > (nabavna vrijednost mašine))_ aplikacija ispisuje zaključak _"Mašina jeste isplativa"_.
+Ukoliko prethodni uslov nije ispunjen, tj. ukoliko je ispunjen uslov _if ((profit * period otplate) > (nabavna vrijednost mašine))_ aplikacija ispisuje zaključak _"Mašina jeste isplativa"_.
 Izgled grafičkog korisničkog interfejsa za ovaj slučaj je prikazan na sljedećoj slici:
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI3.png" width="800">
