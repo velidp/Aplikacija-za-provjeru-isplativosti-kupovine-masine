@@ -44,9 +44,9 @@ Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
   _-Ukupni prihodi_   
   _-Profit_  
 
-Na osnovu izračunatih parametara aplikacija u okviru Zaključak nakon što korisnik aplikacija klikne na dugme prikaži zaključak ispisuje zaključak _"Mašina jeste isplativa"_ ili _"Mašina nije isplativa"_.
+Na osnovu izračunatih parametara aplikacija u okviru **_Zaključak_** nakon što korisnik aplikacija klikne na dugme **_Prikaži zaključak_** prikazuje tekst _"Mašina jeste isplativa"_ ili _"Mašina nije isplativa"_.
 
-Ukoliko je ispunjen uslov _if ((profit * period otplate) <= (nabavna vrijednost mašine))_ aplikacija prikazuje zaključak _"Mašina nije isplativa"_.
+Ukoliko je ispunjen uslov _if ((profit * period otplate) <= (nabavna vrijednost mašine))_ aplikacija prikazuje tekst _"Mašina nije isplativa"_.
 Primjer podatak za koje ovaj uslov ispunjen i konačni izgled grafičkog korisničkog interfejsa za ovakve podatke je prikazan na sljedećoj slici:
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI2.png" width="800">
