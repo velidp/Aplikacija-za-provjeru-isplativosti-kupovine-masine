@@ -26,7 +26,7 @@ U kategoriji **_Prihodi_** se unose sljedeća dva parametra:
   _-Nusprodukti_  
   
 
-Početni izgled grafičkog korisničkog interfejsa:
+Početni izgled grafičkog korisničkog interfejsa je prikazan na sljedećoj slici:
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/Aplikacija-za-provjeru-isplativosti-kupovine-masine/master/Slike/GUI%201.png" width="800">
 </p>  
