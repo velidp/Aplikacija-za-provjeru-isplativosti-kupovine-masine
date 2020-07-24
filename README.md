@@ -1,10 +1,13 @@
 # Aplikacija za provjeru isplativosti kupovine mašine
 
 Aplikacija je implementriana korištenjem programsko jezika **Python** i modula **Tkinter**. 
+
 Jednostvan je za korištenje i posjeduje intuitivan grafički korisnički interfejs.
 
 Aplikacija služi za provjeru da li je mašina isplativa za kupovinu. 
+
 Korisnik aplikacija unosi podatke o mašini i radnicima koji će raditi sa tom mašinom.
+
 Podaci koji se unose su podijeljeni u četri kategorije:
 
 U kategoriji **_Evidnecija učinka_** korisnik unosi sljedeće parametre:
@@ -48,6 +51,9 @@ Početni izgled grafičkog korisničkog interfejsa:
 </p>
 Nakon što korisnik unese gore nabrojane parametre, klikom na dugme OK u okviru **_Rezultat_** se prikazuju izračunate vrijednosti.
 Vrijednosti koje aplikacija računa na osnovu unesnih parametara su:
+
+
+
 
 
   _-Profit iz proizvodnje_
