@@ -1,7 +1,7 @@
 # Cost effectiveness check
 ## System for deciding on the cost-effectiveness of purchasing a new machine
 
-The application is used to check the cost-effectiveness of buying a new machine. The user enters parameters that describe the machine and information on the costs of workers working with that machine. Based on the entered parameters, the application calculates and displays additional information about the machine and displays text about whether the machine is profitable or not. The graphical user interface is intuitive and easy to use. 
+The application is used to check the cost-effectiveness of buying a new machine. The user enters parameters that describe the machine and information on the costs of workers working with that machine. Based on the entered parameters, the application calculates and displays additional information about the machine and displays conclusion about whether the machine is profitable or not. The graphical user interface is intuitive and easy to use. 
 
 ## Getting Started
 
