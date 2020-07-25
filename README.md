@@ -11,8 +11,8 @@ To access the code and test the project, clone the repository and run it in Visu
 The data entered are divided into four categories.
 
 In the **_Performance records_** category, the user enters the following parameters:  
-_-Number of correct pieces_  
-_-Number of defective pieces_    
+_-Number of correctly produced pieces_  
+_-Number of incorrectly produced pieces_    
 _-The price of one piece_  
 
 The following parameters are entered in the **_Machine costs_** category:  
@@ -20,7 +20,7 @@ _-Purchase value of the machine_
 _-Number of months of repayment_  
 _-Depreciated value_  
 _-Monthly costs of machine maintenance and servicing_  
-_-Monthly costs of violas, accessories and equipment_  
+_-Monthly costs of tools, accessories and equipment_  
 
 In the **_Worker costs_** category, the following parameters must be entered:  
 _-Number of working hours per month_  
@@ -29,7 +29,7 @@ _-Bonuses_
 
 The following two parameters are entered in the **_Income_**:  
 _-Subsidies and incentives_  
-_-By byproducts_  
+_-By-byproducts_  
 
 The initial appearance of the graphical user interface is shown in the following figure:
 <p align="left">
