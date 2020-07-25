@@ -46,7 +46,7 @@ _-Total cost_
 _-Total revenue_  
 _-Profit_  
 
-Based on the calculated application parameters in the **_Conclusion_** box, after the application user clicks the **_Show Conclusion_** button, the text _"The machine is cost-effective"_ or _"The machine is not cost-effective"_ is displayed.
+Based on the calculated application parameters in the **_Conclusion_** box, after the application user clicks the **_Show conclusion_** button, the text _"The machine is cost-effective"_ or _"The machine is not cost-effective"_ is displayed.
 
 If the condition _if (profit * repayment period) <= (purchase value of the machine)_ is met, the application displays the text _"The machine is not cost-effective"_. An example of the data for which this condition is met and the final appearance of the graphical user interface for such data is shown in the following figure:
 
