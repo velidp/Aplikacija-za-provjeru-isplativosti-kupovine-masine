@@ -5,7 +5,7 @@ The application is used to check the cost-effectiveness of buying a new machine.
 
 ## Getting Started
 
-To access the code and test the project, clone the repository and run it iVisual Studio.
+To access the code and test the project, clone the repository and run it in Visual Studio.
 
 ## Application description
 The data entered are divided into four categories.
