@@ -5,7 +5,7 @@ The application is used to check the cost-effectiveness of buying a new machine.
 
 ## Getting Started
 
-To access the code and test the project, clone the repository and run it in a Visual Studio or other development environment that supports Python.
+To access the code and test the project, clone the repository and run it iVisual Studio.
 
 ## Application description
 The data entered are divided into four categories.
@@ -40,7 +40,7 @@ After the user enters the parameters listed above, clicking the **_OK_** button 
 _-Profit from production_  
 _-Production losses_  
 _-Total number of pieces_  
-_-Labor costs_  
+_-Worker costs_  
 _-Machine costs_  
 _-Total cost_  
 _-Total revenue_  
