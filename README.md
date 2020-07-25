@@ -13,7 +13,7 @@ The data entered are divided into four categories.
 In the **_Performance records_** category, the user enters the following parameters:  
 _-Number of correct pieces_  
 _-Number of defective pieces_    
-_-Price for one piece_  
+_-The price of one piece_  
 
 The following parameters are entered in the **_Machine costs_** category:  
 _-Purchase value of the machine_   
