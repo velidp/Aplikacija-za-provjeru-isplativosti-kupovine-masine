@@ -54,7 +54,7 @@ If the condition _if (profit * repayment period) <= (purchase value of the machi
   <img src="https://raw.githubusercontent.com/velidp/System-for-deciding-on-the-cost-effectiveness-of-purchasing-a-new-machine/master/GUI/GUI%202.png" width="800">
 </p>  
 
-If the previous condition is not met, ie. if the condition if (profit * repayment period)> (purchase value of the machine) is fulfilled, the application prints the conclusion _"The machine is cost-effective"_. The layout of the graphical user interface for this case is shown in the following figure:
+If the previous condition is not met, ie. if the condition _if (profit * repayment period)> (purchase value of the machine)_ is true, the application prints the conclusion _"The machine is cost-effective"_. The layout of the graphical user interface for this case is shown in the following figure:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/velidp/System-for-deciding-on-the-cost-effectiveness-of-purchasing-a-new-machine/master/GUI/GUI%203.png" width="800">
