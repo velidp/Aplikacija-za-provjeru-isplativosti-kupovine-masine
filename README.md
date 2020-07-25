@@ -62,7 +62,7 @@ If the previous condition is not met, ie. if the condition if (profit * repaymen
 
 ## Prerequisites
 
-To run and use the application, download the file "System for deciding on the cost-effectiveness of purchasing a new machine" from the executable file folder.
+To run and use the application, download the file "System for deciding on the cost-effectiveness of purchasing a new machine" from the __*Executable File*__ folder.
 
 
 ## Built With
