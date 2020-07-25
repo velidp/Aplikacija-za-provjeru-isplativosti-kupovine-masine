@@ -24,7 +24,7 @@ _-Monthly costs of violas, accessories and equipment_
 
 In the **_Worker costs_** category, the following parameters must be entered:  
 _-Number of working hours per month_  
-_-Price per hour_  
+_-The price of one working hour_  
 _-Bonuses_  
 
 The following two parameters are entered in the **_Income_**:  
