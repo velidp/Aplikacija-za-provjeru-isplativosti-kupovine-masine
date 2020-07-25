@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.geometry("1140x590")
-root.title("System for deciding on the cost-effectiveness of purchasing a new machine");
+root.title("Cost effectiveness check");
 root.resizable(False, False)
 
 evidencijaUcinkaLF = LabelFrame(root, text=" 1. Performance records: ")
@@ -35,7 +35,7 @@ neispravnihKomadaL.grid(row=10, column=0)
 neispravnihKomadaL.grid(row=10, column=0, sticky='E', padx=4, pady=2)
 neispravnihKomadaSB.grid(row=10, column=6)
 
-cijenaKomadaL = Label(evidencijaUcinkaLF, text="Number of incorrectly produced pieces: ",anchor=E)
+cijenaKomadaL = Label(evidencijaUcinkaLF, text="The price of one piece: ",anchor=E)
 cijenaKomadaLB = Label(evidencijaUcinkaLF, text="€/piece",anchor=E)
 cijenaKomadaE = Entry(evidencijaUcinkaLF, bd =2)
 cijenaKomadaL.grid(row=12, column=0)
@@ -75,7 +75,7 @@ periodOtplateL.grid(row=8, column=0, sticky='E', padx=6, pady=2)
 periodOtplateE.grid(row=8, column=6)
 periodOtplateLB.grid(row=8, column=8)
 
-amortizovanaVrijednostL = Label(troskoviMasineLF, text="Amortized cost: ",justify=LEFT)
+amortizovanaVrijednostL = Label(troskoviMasineLF, text="Depreciated value: ",justify=LEFT)
 amortizovanaVrijednostLB = Label(troskoviMasineLF, text="€",justify=LEFT)
 amortizovanaVrijednostE = Entry(troskoviMasineLF, bd = 2)
 amortizovanaVrijednostL.grid(row=10, column=0)
