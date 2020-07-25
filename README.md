@@ -67,8 +67,8 @@ To run and use the application, download the file "System for deciding on the co
 
 ## Built With
 
-* [Python](https://www.python.org) - The web framework used
-* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Dependency Management
+* [Python](https://www.python.org) - Programming language used
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Standard GUI (Graphical User Interface) package
 
 
 ## Acknowledgments
