@@ -7,6 +7,12 @@ The application is used to check the cost-effectiveness of buying a new machine.
 
 To access the code and test the project, clone the repository and run it in Visual Studio.
 
+## Built With
+
+* [Python](https://www.python.org) - Programming language used
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Standard GUI (Graphical User Interface) package
+
+
 ## Application description
 The data entered are divided into four categories.
 
@@ -65,10 +71,6 @@ If the previous condition is not met, ie. if the condition _if (profit * repayme
 To run and use the application, download the file _"Cost effectiveness check"_ from the __*Executable File*__ folder.
 
 
-## Built With
-
-* [Python](https://www.python.org) - Programming language used
-* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Standard GUI (Graphical User Interface) package
 
 
 ## Acknowledgments
